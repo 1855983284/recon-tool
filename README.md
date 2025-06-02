@@ -14,5 +14,5 @@
 
 
 ```bash
-git clone https://github.com/yourusername/redscope.git
-cd redscope
+git clone https://github.com/1855983284/recon-tool.git
+cd recon-tool
