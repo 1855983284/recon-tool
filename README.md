@@ -16,3 +16,8 @@
 ```bash
 git clone https://github.com/1855983284/recon-tool.git
 cd recon-tool
+
+
+usage:
+==>  python RedScope.py --domain (domain-name) --whois --dns --subdomains --ports --banner --tech --report (txt or html) ==> for common ports [21, 22, 23, 25, 53, 80, 110, 143, 443, 3306, 3389, 8080]
+==>  python RedScope.py --domain (domain-name) --whois --dns --subdomains --ports --full --banner --tech --report (txt or html) ==> for all ports
